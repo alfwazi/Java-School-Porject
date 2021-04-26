@@ -14,7 +14,7 @@ import java.sql.SQLException;
  */
 public class DbConnection {
     private Connection connection;
-    private final String path = "C:\\Users\\VHW\\Desktop\\school\\schoolDatabase2.accdb";
+    private final String path = "C:\\Users\\VHW\\Desktop\\school\\schoolDatabase2.accdb"; // THIS IS THE PATH OF THE DATABASE FILE (Microsoft Access DataBase Files)
 
       public Connection getConnection() {
           
