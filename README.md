@@ -14,7 +14,7 @@
     <a href="https://github.com/alfwazi/Java-School-Porject/blob/master/README.md"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">Demo is NOT Available</a>
+    <a href="#">Demo is NOT Available</a>
     ·
 
   </p>
